@@ -20,8 +20,6 @@ internal class Program
                 matriz[i, j] = (2 * i) + j;
             }
         }
-
-      
         Console.WriteLine("MATRIZ COMPLETA");
         matriz.WriteMatrix();
 
