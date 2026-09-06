@@ -1,1 +1,8 @@
-<Solution />
+<Solution>
+  <Folder Name="/31/">
+    <Project Path="Lower_Triangular_Matrix/Lower_Triangular_Matrix.csproj" />
+  </Folder>
+  <Folder Name="/34/">
+    <Project Path="Hourglass/Hourglass.csproj" />
+  </Folder>
+</Solution>
